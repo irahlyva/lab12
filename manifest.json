@@ -1,0 +1,22 @@
+{
+  "name": "Бронювання кімнат в готелі",
+  "short_name": "Hotel",
+  "description": "AJAX'овий Календар-застосунок з JavaScript/HTML5/jQuery",
+  "lang": "uk",
+  "start_url": "/index.php",
+  "display": "standalone",
+  "background_color": "#92E4FA",
+  "theme_color": "#92E4FA",
+  "icons": [
+    {
+      "src": "icon16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+     {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+body{
+	background: #ffffff;
+}
+header, footer{
+	background: #0040ff;
+    text-align: center;
+    color: #fff;
+    padding: 15px;
+}
+footer{
+    display: block;
+    clear: left;
+}
+
